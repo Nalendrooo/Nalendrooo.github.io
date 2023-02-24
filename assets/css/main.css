@@ -357,7 +357,7 @@ section.list-portofolio .portofolio .card-portofoilo a:hover
 section.list-profile
 {
     width: 100%;
-    height: 500px;
+    margin: 50px 0;
     display: flex;
 }
 
@@ -614,7 +614,7 @@ footer
     section.list-profile
     {
         width: 100%;
-        height: 100vh;
+        margin: 25px 0;
     }
 
     .profile-detail
@@ -624,7 +624,7 @@ footer
 
     section.list-profile
     {
-        height: 1100px;
+        margin: 50px 0;
     }
 
     .profile-detail .name-profile
