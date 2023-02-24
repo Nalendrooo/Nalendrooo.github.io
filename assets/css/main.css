@@ -614,17 +614,11 @@ footer
     section.list-profile
     {
         width: 100%;
-        margin: 25px 0;
     }
 
     .profile-detail
     {
         width: 100%;
-    }
-
-    section.list-profile
-    {
-        margin: 50px 0;
     }
 
     .profile-detail .name-profile
